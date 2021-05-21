@@ -8,5 +8,6 @@
 - 📫 How to reach me: https://www.linkedin.com/in/priyanka-gupta-170589/
 - ⚡ Fun fact: Keen Learner
 
+<br>
 ![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpriya32&show_icons=true&theme=radical)
 
