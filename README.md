@@ -1,4 +1,4 @@
-<h1>Priyanka Gupta Github </h1>
+<h1>Priyanka's Github </h1>
 
 - 🔭 I’m currently working on Image Processing
 - 🌱 I’m currently learning 
